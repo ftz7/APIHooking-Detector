@@ -45,7 +45,7 @@ Para compilar o projeto, recomenda-se o uso do **Visual Studio** com o compilado
 
 ## 📖 Exemplo de Uso
 
-* **nthookdetect.exe hooks_detectados.txt
+```nthookdetect.exe hooks_detectados.txt```
 
 ---
 
