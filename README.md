@@ -49,8 +49,8 @@ Para compilar o projeto, recomenda-se o uso do **Visual Studio** com o compilado
 
 ## 💻 Exemplo de saída do terminal
 
-[*] NT API being hooked:
-=========================================================================================
-[-] NtCreateFile [0xB8D18B4C != 0xE9...]
-[-] NtAllocateVirtualMemory [0xB8D18B4C != 0xE9...]
-=========================================================================================
+* **[*] NT API being hooked:
+* **=========================================================================================
+* **[-] NtCreateFile [0xB8D18B4C != 0xE9...]
+* **[-] NtAllocateVirtualMemory [0xB8D18B4C != 0xE9...]
+* **=========================================================================================
