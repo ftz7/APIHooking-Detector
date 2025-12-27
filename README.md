@@ -45,7 +45,7 @@ Para compilar o projeto, recomenda-se o uso do **Visual Studio** com o compilado
 
 ## 📖 Exemplo de Uso
 
-```PS C:\APIHookingDetector\Detector\x64\Release>./nthookdetect hooks_detectados.txt```
+```PS C:\APIHookingDetector\x64\Release>./nthookdetect hooks_detectados.txt```
 
 ---
 
